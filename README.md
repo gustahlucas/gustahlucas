@@ -4,6 +4,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustahlucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustahlucas&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+<div style = "display: inline_block"><br>
+  <img align="center" alt alt="Gusta-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt alt="Gusta-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt alt="Gusta-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">  
+  <img align="center" alt alt="Gusta-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt alt="Gusta-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> 
+  <img align="center" alt alt="Gusta-gitlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">  
+  <img align="center" alt alt="Gusta-figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">  
+</div>
   
   ##
  
